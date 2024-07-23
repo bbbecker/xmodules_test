@@ -1,7 +1,7 @@
 #include "subrepo_lib/subrepo_test_lib.h"
 #include "stdio.h"
 
-#define APP_VERSION "A.02"
+#define APP_VERSION "A.04"
 void main(void)
 {
     printf("Application A Version: %s\n", APP_VERSION);
