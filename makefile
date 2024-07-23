@@ -1,4 +1,4 @@
-IDIR =./subrepo_lib
+IDIR =./module
 CC=gcc
 CFLAGS=-I$(IDIR)
 
@@ -7,7 +7,7 @@ LDIR =./lib
 
 LIBS=-lm
 
-_DEPS = subrepo_test_lib.h
+_DEPS = xmodule_test_lib.h
 DEPS = $(patsubst %,$(IDIR)/%,$(_DEPS))
 
 _OBJ = main.o
