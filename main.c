@@ -1,4 +1,4 @@
-#include "subrepo_lib/subrepo_test_lib.h"
+#include "module/xmodule_test_lib.h"
 #include "stdio.h"
 
 #define APP_VERSION "A.04"
