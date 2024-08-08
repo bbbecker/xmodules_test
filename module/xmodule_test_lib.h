@@ -1,1 +1,1 @@
-#define LIBRARY_VERSION "02.04"
+#define LIBRARY_VERSION "02.06"
